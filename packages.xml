@@ -199,13 +199,13 @@
   </package>
   <package>
     <name>d3-v3.5.6</name>
-    <url>https://github.com/mbostock/d3/archive/v3.5.6.tar.gz</url>
-    <local-filename>d3-v3.5.6.tar.gz</local-filename>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/d3-3.5.6.tar.gz</url>
+    <local-filename>d3-3.5.6.tar.gz</local-filename>
     <format>tgz</format>
     <md5>9d582078fb9bcb5d62467147dd1fdaec</md5>
     <rename>d3-v3.5.6</rename>
   </package>
-  <package>
+  <package>¬
     <name>datetimepicker-2.1.9</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/datetimepicker-2.1.9.tar.gz</url>
     <local-filename>datetimepicker-2.1.9.tar.gz</local-filename>
@@ -245,8 +245,8 @@
   </package>
   <package>
     <name>nvd3-v1.8.1</name>
-    <url>https://github.com/novus/nvd3/archive/v1.8.1-alpha.tar.gz</url>
-    <local-filename>v1.8.1-alpha.tar.gz</local-filename>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/nvd3-1.8.1-alpha.tar.gz</url>
+    <local-filename>nvd3-1.8.1-alpha.tar.gz</local-filename>
     <format>tgz</format>
     <md5>dab11e0d331686a474a2b6aa255f5bd4</md5>
     <rename>nvd3-v1.8.1</rename>
