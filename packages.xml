@@ -223,7 +223,7 @@
   </package>
   <package>
     <name>font-awesome-v4.3.0</name>
-    <url>https://github.com/FortAwesome/Font-Awesome/archive/v4.3.0.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/Font-Awesome-4.3.0.tar.gz</url>
     <local-filename>Font-Awesome-4.3.0.tar.gz</local-filename>
     <format>tgz</format>
     <md5>b61c254e706c12af0d0a9c5044ec6f0c</md5>
@@ -250,6 +250,9 @@
     <format>tgz</format>
     <md5>dab11e0d331686a474a2b6aa255f5bd4</md5>
     <rename>nvd3-v1.8.1</rename>
+    <patches>
+      <patch strip="2">nvd3-v1.8.1.patch</patch>
+    </patches>
   </package>
   <package>
     <name>knockout-3.0.0</name>
