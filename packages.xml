@@ -245,7 +245,7 @@
   </package>
   <package>
     <name>nvd3-v1.8.1</name>
-    <url>https://github.com/novus/nvd3/archive/v1.8.1.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/nvd3-1.8.1.tar.gz</url>
     <local-filename>nvd3-1.8.1.tar.gz</local-filename>
     <format>tgz</format>
     <md5>4f4880148fd1222f85f605bbbc4e4e57</md5>
