@@ -619,24 +619,24 @@
   </package>
   <package>
     <name>require</name>
-    <url>https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/require.min.js</url>
     <local-filename>require.js</local-filename>
     <format>file</format>
     <md5>9a5abad043df0d348bdc5eb2c200973a</md5>
   </package>
   <package>
     <name>textjs-v2.0.12</name>
-    <url>https://cdnjs.cloudflare.com/ajax/libs/require-text/2.0.12/text.min.js</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/text.min.js</url>
     <local-filename>text.js</local-filename>
     <format>file</format>
-    <md5>6d1537f6e76da0f59ef45b3fa49ef8cd</md5>
+    <md5>cd3ef7ba623a6a062ae3b2e0281367cb</md5>
   </package>
   <package>
     <name>lodashjs-v3.10.1</name>
-    <url>https://raw.githubusercontent.com/lodash/lodash/3.10.1/lodash.min.js</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/lodash.min.js</url>
     <local-filename>lodash.min.js</local-filename>
     <format>file</format>
-    <md5>7629cac4f079926ef505e2271bb5135f</md5>
+    <md5>b57cd4499efb77d94419be79fe212fe9</md5>
   </package>
   <package>
     <name>Tristate</name>
