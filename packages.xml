@@ -251,15 +251,12 @@
     <rename>jquery-validation-v1.11.1</rename>
   </package>
   <package>
-    <name>select2-3.4.6</name>
-    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/select2-3.4.6.tar.gz</url>
-    <local-filename>select2-3.4.6.tar.gz</local-filename>
+    <name>select2-4.0.2</name>
+    <url>https://github.com/select2/select2/archive/4.0.2.tar.gz</url>
+    <local-filename>select2-4.0.2.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>4531162f749af545f2d19c370a94e07f</md5>
-    <rename>select2-v3.4.6</rename>
-    <patches>
-      <patch strip="0">select2_v3.4.6.patch</patch>
-    </patches>
+    <md5>248282f95f6186a5b49813bdd423326f</md5>
+    <rename>select2-v4.0.2</rename>
   </package>
   <package>
     <name>SlickGrid</name>
