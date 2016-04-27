@@ -256,6 +256,9 @@
     <local-filename>select2-4.0.2.tar.gz</local-filename>
     <format>tgz</format>
     <md5>248282f95f6186a5b49813bdd423326f</md5>
+    <patches>
+      <patch strip="1">select2-v4.0.2.patch</patch>
+    </patches>
     <rename>select2-v4.0.2</rename>
   </package>
   <package>
