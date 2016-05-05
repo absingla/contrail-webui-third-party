@@ -176,5 +176,11 @@
     <format>npm-cached</format>
     <md5>4133427fd8313bcd6e1be869b8c72678</md5>
   </package>
+  <package>
+    <name>bootstrap-sass</name>
+    <url>https://github.com/twbs/bootstrap-sass/archive/v3.3.6.tar.gz</url>
+    <format>npm</format>
+    <md5>146ba506a45c1a79872649eee142a1c4</md5>
+  </package>
 </packages>
 
