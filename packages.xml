@@ -585,6 +585,14 @@
     </patches>
   </package>
   <package>
+    <name>JointJS-new</name>
+    <url>http://10.87.140.111/packages/joint-0.9.6.tar.gz</url>
+    <local-filename>joint-v0.9.6.tar.gz</local-filename>
+    <format>tgz</format>
+    <md5>15a539f81e6f2f22e1c5ad20bee03d65</md5>
+    <rename>joint-v0.9.6</rename>
+  </package>
+  <package>
     <name>Dagre</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/dagre-0.7.1.tar.gz</url>
     <local-filename>dagre-0.7.1.tar.gz</local-filename>
