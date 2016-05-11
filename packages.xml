@@ -586,7 +586,7 @@
   </package>
   <package>
     <name>JointJS-new</name>
-    <url>http://10.87.140.111/packages/joint-0.9.6.tar.gz</url>
+    <url>http://10.87.140.111/packages/joint-v0.9.6.tar.gz</url>
     <local-filename>joint-v0.9.6.tar.gz</local-filename>
     <format>tgz</format>
     <md5>15a539f81e6f2f22e1c5ad20bee03d65</md5>
