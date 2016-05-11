@@ -183,5 +183,10 @@
     <format>npm</format>
     <md5>146ba506a45c1a79872649eee142a1c4</md5>
   </package>
+  <package>
+    <name>node-sass</name>
+    <url>https://github.com/sass/node-sass/archive/v3.7.0.tar.gz</url>
+    <format>npm</format>
+    <md5>67323a4f935320f1f68512045300d988</md5>
+  </package>
 </packages>
-

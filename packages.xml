@@ -196,6 +196,9 @@
     <format>tgz</format>
     <md5>79d62a589d3a0eb8d3090ea78eee3f94</md5>
     <rename>gridstack-v0.2.5</rename>
+    <patches>
+      <patch strip="0">gridstack-v0.2.5.patch</patch>
+    </patches>
   </package>
   <package>¬
     <name>datetimepicker-2.4.5</name>
