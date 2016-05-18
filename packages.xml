@@ -706,5 +706,10 @@
     <format>npm-cached</format>
     <md5>8809cf6fbf7fee2083ede37ec97ad36d</md5>
   </package>
-
+  <package>
+    <name>webworker-threads</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads.tar.gz</url>
+    <format>npm-cached</format>
+    <md5>aa4e020a9f86fb0c87489bf3a4a932e3</md5>
+  </package>
 </packages>
