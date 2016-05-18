@@ -708,8 +708,8 @@
   </package>
   <package>
     <name>webworker-threads</name>
-    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads.tar.gz</url>
-    <format>npm-cached</format>
-    <md5>aa4e020a9f86fb0c87489bf3a4a932e3</md5>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads-0.7.4.tar.gz</url>
+    <format>npm</format>
+    <md5>0fc35fa2c2e61978a8db3968afd98b4a</md5>
   </package>
 </packages>
