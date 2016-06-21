@@ -47,6 +47,13 @@
     <md5>396a695751d02153f66f830d60a7f5cc</md5>
   </package>
   <package>
+    <name>xml2json.js</name>
+    <url>https://github.com/abdmob/x2js/archive/v1.2.0.tar.gz</url>
+    <local-filename>x2js-1.2.0</local-filename>
+    <format>tgz</format>
+    <md5>3679bf8229254307014f12ba20ec5173</md5>
+  </package>
+  <package>
     <name>jquery.ui.touch-punch.min-0.2.2</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/jquery.ui.touch-punch.min-0.2.2.js</url>
     <local-filename>jquery.ui.touch-punch.min.js</local-filename>
@@ -422,12 +429,6 @@
     <md5>a4ee9c8f51a40383f84d56d021b02680</md5>
   </package>
   <package>
-    <name>helenus</name>
-    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/npm-sources/helenus-0.6.2.tar.gz</url>
-    <format>npm-cached</format>
-    <md5>256eac982a5317c3534f295c5e51be7b</md5>
-  </package>
-  <package>
     <name>ssh2</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/npm-sources/ssh2-0.2.12.tar.gz</url>
     <format>npm-cached</format>
@@ -588,6 +589,14 @@
     </patches>
   </package>
   <package>
+    <name>JointJSNew</name>
+    <url>https://github.com/clientIO/joint/archive/v0.9.6.tar.gz</url>
+    <local-filename>joint-v0.9.6.tar.gz</local-filename>
+    <format>tgz</format>
+    <md5>f398e07df3a25fbb4ae7da6ab4607c1e</md5>
+    <rename>joint-v0.9.6</rename>
+  </package>
+  <package>
     <name>Dagre</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/dagre-0.7.1.tar.gz</url>
     <local-filename>dagre-0.7.1.tar.gz</local-filename>
@@ -711,5 +720,11 @@
     <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads-0.7.4.tar.gz</url>
     <format>npm</format>
     <md5>0fc35fa2c2e61978a8db3968afd98b4a</md5>
+  </package>
+  <package>
+    <name>cassandra-driver</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/nodejs-driver-3.0.2.tar.gz</url>
+    <format>npm</format>
+    <md5>4495943888999c3c666debc8466f6243</md5>
   </package>
 </packages>
