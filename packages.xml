@@ -727,4 +727,16 @@
     <format>npm</format>
     <md5>4495943888999c3c666debc8466f6243</md5>
   </package>
+  <package>
+    <name>tty.js</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/tty.js-0.2.15.tar.gz</url>
+    <format>npm</format>
+    <md5>f98c6f1b6df4dfd968e981b55902b175</md5>
+  </package>
+  <package>
+    <name>term.js</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/term.js-0.0.7.tar.gz</url>
+    <format>npm</format>
+    <md5>50b9fbaf8de6dfbd8d4622ee9bbcbf2c</md5>
+  </package>
 </packages>
