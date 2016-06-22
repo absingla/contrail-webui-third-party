@@ -588,6 +588,7 @@
       <patch strip="1">joint-v0.9.3.patch</patch>
     </patches>
   </package>
+  <!--
   <package>
     <name>JointJSNew</name>
     <url>https://github.com/clientIO/joint/archive/v0.9.6.tar.gz</url>
@@ -596,6 +597,7 @@
     <md5>f398e07df3a25fbb4ae7da6ab4607c1e</md5>
     <rename>joint-v0.9.6</rename>
   </package>
+  -->
   <package>
     <name>Dagre</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/dagre-0.7.1.tar.gz</url>
