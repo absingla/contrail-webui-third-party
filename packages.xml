@@ -48,7 +48,7 @@
   </package>
   <package>
     <name>xml2json.js</name>
-    <url>https://github.com/abdmob/x2js/archive/v1.2.0.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/x2js-1.2.0.tar.gz</url>
     <local-filename>x2js-1.2.0</local-filename>
     <format>tgz</format>
     <md5>3679bf8229254307014f12ba20ec5173</md5>
