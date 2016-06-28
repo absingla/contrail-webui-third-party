@@ -48,7 +48,7 @@
   </package>
   <package>
     <name>xml2json.js</name>
-    <url>https://github.com/abdmob/x2js/archive/v1.2.0.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/x2js-1.2.0.tar.gz</url>
     <local-filename>x2js-1.2.0</local-filename>
     <format>tgz</format>
     <md5>3679bf8229254307014f12ba20ec5173</md5>
@@ -719,13 +719,13 @@
   </package>
   <package>
     <name>webworker-threads</name>
-    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads-0.7.4.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/webworker-threads-0.7.4.tar.gz</url>
     <format>npm</format>
     <md5>0fc35fa2c2e61978a8db3968afd98b4a</md5>
   </package>
   <package>
     <name>cassandra-driver</name>
-    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/nodejs-driver-3.0.2.tar.gz</url>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/nodejs-driver-3.0.2.tar.gz</url>
     <format>npm</format>
     <md5>4495943888999c3c666debc8466f6243</md5>
   </package>
