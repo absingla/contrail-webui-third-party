@@ -706,6 +706,20 @@
     <md5>40adf514209f278cf705644027533e0e</md5>
   </package>
   <package>
+    <name>jsoneditor-v5.5.6</name>
+    <url>https://github.com/josdejong/jsoneditor/archive/v5.5.6.zip</url>
+    <local-filename>jsoneditor-5.5.6.zip</local-filename>
+    <format>zip</format>
+    <md5>90fb070e6cc5b8718f10ee1a7fdad70d</md5>
+  </package>
+  <package>
+    <name>ajv-4.1.5</name>
+    <url>https://cdnjs.cloudflare.com/ajax/libs/ajv/4.1.5/ajv.min.js</url>
+    <local-filename>ajv.min.js</local-filename>
+    <format>file</format>
+    <md5>6dff5853d7ae2ea0161a9d9ccb07bb4d</md5>
+  </package>
+  <package>
     <name>moment-2.10.3</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/npm-sources/moment-2.10.3.tar.gz</url>
     <format>npm-cached</format>
