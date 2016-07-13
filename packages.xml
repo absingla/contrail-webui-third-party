@@ -743,4 +743,10 @@
     <format>npm</format>
     <md5>4495943888999c3c666debc8466f6243</md5>
   </package>
+  <package>
+    <name>node-sass</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/node-sass-3.8.0.tar.gz</url>
+    <format>npm</format>
+    <md5>2c4de27b5b9322395a7e249d5b11265c</md5>
+  </package>
 </packages>
