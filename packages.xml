@@ -749,4 +749,10 @@
     <format>npm</format>
     <md5>2c4de27b5b9322395a7e249d5b11265c</md5>
   </package>
+  <package>
+    <name>bootstrap-sass</name>
+    <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/bootstrap-sass-3.3.6.tar.gz</url>
+    <format>npm</format>
+    <md5>146ba506a45c1a79872649eee142a1c4</md5>
+  </package>
 </packages>
