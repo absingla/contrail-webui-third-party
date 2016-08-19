@@ -189,4 +189,36 @@
     <format>npm</format>
     <md5>67323a4f935320f1f68512045300d988</md5>
   </package>
+  <package>
+    <name>nock</name>
+    <url>https://github.com/node-nock/nock/archive/v7.7.2.tar.gz</url>
+    <format>npm</format>
+    <md5>a703e44ad34da05d9a0501b861dcf7ff</md5>
+  </package>
+  <package>
+    <name>express</name>
+    <url>https://github.com/expressjs/express/archive/4.14.0.tar.gz</url>
+    <format>npm</format>
+    <md5>e9f76b8c61664e5af650ed645e16ebad</md5>
+  </package>
+  <package>
+    <name>body-parser</name>
+    <url>https://github.com/expressjs/body-parser/archive/1.15.2.tar.gz</url>
+    <format>npm</format>
+    <md5>fe4ce9d14ce6ac6ad91845bfac2f380d</md5>
+  </package>
+  <package>
+    <name>grunt-express-server</name>
+    <url>https://github.com/ericclemmons/grunt-express-server/archive/v0.5.1.tar.gz</url>
+    <format>npm</format>
+    <md5>f26b11a03ab7cc59ea0f66066b93611e</md5>
+  </package>
+  <package>
+    <name>request</name>
+    <url>https://github.com/request/request/archive/v2.74.1.tar.gz</url>
+      <format>npm</format>
+    <md5>35c2ddbf5ca46cce4fdf4f495ea5cfa2</md5>
+  </package>
+
+
 </packages>
