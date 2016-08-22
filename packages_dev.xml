@@ -196,12 +196,6 @@
     <md5>a703e44ad34da05d9a0501b861dcf7ff</md5>
   </package>
   <package>
-    <name>express</name>
-    <url>https://github.com/expressjs/express/archive/4.14.0.tar.gz</url>
-    <format>npm</format>
-    <md5>e9f76b8c61664e5af650ed645e16ebad</md5>
-  </package>
-  <package>
     <name>body-parser</name>
     <url>https://github.com/expressjs/body-parser/archive/1.15.2.tar.gz</url>
     <format>npm</format>
@@ -219,6 +213,4 @@
       <format>npm</format>
     <md5>35c2ddbf5ca46cce4fdf4f495ea5cfa2</md5>
   </package>
-
-
 </packages>
