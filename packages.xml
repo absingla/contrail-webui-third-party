@@ -309,6 +309,13 @@
     <md5>d7a58c286b230beb275041d8718e6d64</md5>
   </package>
   <package>
+    <name>handlebars-v4.0.5</name>
+    <url>https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js</url>
+    <local-filename>handlebars-v4.0.5.js</local-filename>
+    <format>file</format>
+    <md5>443b6dfae4afa132f7d9f31fc5f20742</md5>
+  </package>
+  <package>
     <name>SlickGridEnhancementPager</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/SlickGridEnhancementPager-master.zip</url>
     <local-filename>SlickGridEnhancementPager-master.zip</local-filename>
