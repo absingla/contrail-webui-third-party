@@ -294,6 +294,14 @@
     <rename>moment-v2.6.0</rename>
   </package>
   <package>
+    <name>moment-2.14.1</name>
+    <url>https://github.com/moment/moment/archive/2.14.1.tar.gz</url>
+    <local-filename>moment-2.14.1.tar.gz</local-filename>
+    <format>tgz</format>
+    <md5>cb156d513bc237a3ed644f67216a1c65</md5>
+    <rename>moment-v2.14.1</rename>
+  </package>
+  <package>
     <name>knockout-v3.0.0</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/knockout-v3.0.0.tar.gz</url>
     <local-filename>knockout-v3.0.0.tar.gz</local-filename>
