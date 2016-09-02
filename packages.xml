@@ -184,7 +184,7 @@
     </package>
     <package>
         <name>gridstack-v0.2.5</name>
-        <url>https://github.com/troolee/gridstack.js/archive/v0.2.5.tar.gz</url>
+        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/controller/gridstack.js-0.2.5.tar.gz</url>
         <local-filename>v0.2.5.tar.gz</local-filename>
         <format>tgz</format>
         <md5>79d62a589d3a0eb8d3090ea78eee3f94</md5>
@@ -749,7 +749,7 @@
     </package>
     <package>
         <name>lodash-4.15.0</name>
-        <url>https://github.com/lodash/lodash/archive/4.15.0-npm-packages.tar.gz</url>
+        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/lodash-4.15.0-npm-packages.tar.gz</url>
         <format>npm-cached</format>
         <md5>790313125b720f5fa38676b5dedfec58</md5>
     </package>
