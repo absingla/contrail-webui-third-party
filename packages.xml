@@ -749,9 +749,9 @@
     </package>
     <package>
         <name>lodash-4.15.0</name>
-        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/lodash-4.15.0-npm-packages.tar.gz</url>
+        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/lodash-4.15.tar.gz</url>
         <format>npm-cached</format>
-        <md5>790313125b720f5fa38676b5dedfec58</md5>
+        <md5>ddb44cf91da72c3db05319e959d8dea5</md5>
     </package>
     <package>
         <name>moment-2.10.3</name>
