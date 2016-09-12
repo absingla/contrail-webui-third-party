@@ -188,6 +188,8 @@
     <url>https://github.com/sass/node-sass/archive/v3.7.0.tar.gz</url>
     <format>npm</format>
     <md5>67323a4f935320f1f68512045300d988</md5>
+  </package>
+  <package>
     <name>eslint</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/eslint-2.13.1.tar.gz</url>
     <format>npm-cached</format>
