@@ -4,14 +4,14 @@
         name    : Specify name of the package.
         url     : URL to download the package.
         format  : Format of the downloaded file.
-                  If format is set as 'file', then after downloading the 
+                  If format is set as 'file', then after downloading the
                   file, same file gets renamed (if rename tag is specfied) and
                   copied to currect directory, else based on the format, the
                   zipped file gets extracted and gets copied in current directory
-        md5     : md5 checksum to compare, against the md5 checksum of the 
+        md5     : md5 checksum to compare, against the md5 checksum of the
                   downloaded file
         rename  : Rename the directory/downloaded file to this.
-        patches : Specify the patch files which will be applied on the files once 
+        patches : Specify the patch files which will be applied on the files once
                   download and copy to currect directory is complete.
     -->
   <package>
@@ -190,6 +190,30 @@
     <md5>67323a4f935320f1f68512045300d988</md5>
   </package>
   <package>
+    <name>eslint</name>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/eslint-2.13.1.tar.gz</url>
+    <format>npm-cached</format>
+    <md5>5daca0f0e19152ab86e4abaa66e31a7d</md5>
+  </package>
+  <package>
+    <name>csslint</name>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/csslint-1.0.2.tar.gz</url>
+    <format>npm-cached</format>
+    <md5>47645297e4ebacfd3abadb9c9b2a09cf</md5>
+  </package>
+  <package>
+    <name>grunt-contrib-csslint</name>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/grunt-contrib-csslint-1.0.0.tar.gz</url>
+    <format>npm-cached</format>
+    <md5>df7f6934bfab766ef767e39073e7b376</md5>
+  </package>
+  <package>
+    <name>csslint-stylish</name>
+    <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/csslint-stylish-0.0.4.tar.gz</url>
+    <format>npm-cached</format>
+    <md5>dbd7bfd285b8140fe8417e65d84ed950</md5>
+  </package>
+  <package>
     <name>nock</name>
     <url>https://github.com/node-nock/nock/archive/v7.7.2.tar.gz</url>
     <format>npm</format>
@@ -210,7 +234,7 @@
   <package>
     <name>request</name>
     <url>https://github.com/request/request/archive/v2.74.1.tar.gz</url>
-      <format>npm</format>
+    <format>npm</format>
     <md5>35c2ddbf5ca46cce4fdf4f495ea5cfa2</md5>
   </package>
 </packages>
