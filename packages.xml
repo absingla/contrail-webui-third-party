@@ -182,17 +182,6 @@
         <md5>9d582078fb9bcb5d62467147dd1fdaec</md5>
         <rename>d3-v3.5.6</rename>
     </package>
-    <package>
-        <name>gridstack-v0.2.5</name>
-        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/controller/gridstack.js-0.2.5.tar.gz</url>
-        <local-filename>v0.2.5.tar.gz</local-filename>
-        <format>tgz</format>
-        <md5>79d62a589d3a0eb8d3090ea78eee3f94</md5>
-        <rename>gridstack-v0.2.5</rename>
-        <patches>
-            <patch strip="0">gridstack-v0.2.5.patch</patch>
-        </patches>
-    </package>
     <package>¬
         <name>datetimepicker-2.4.5</name>
         <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/datetimepicker-2.4.5.tar.gz</url>
@@ -302,6 +291,17 @@
         <rename>slickgrid.enhancement.pager</rename>
         <patches>
             <patch strip="2">SlickGridEnhancementPager.patch</patch>
+        </patches>
+    </package>
+    <package>
+        <name>gridstack-v0.2.5</name>
+        <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/gridstack.js-0.2.5.tar.gz</url>
+        <local-filename>gridstack-v0.2.5.tar.gz</local-filename>
+        <format>tgz</format>
+        <md5>79d62a589d3a0eb8d3090ea78eee3f94</md5>
+        <rename>gridstack-v0.2.5</rename>
+        <patches>
+            <patch strip="0">gridstack_v0.2.5.patch</patch>
         </patches>
     </package>
     <package>
@@ -506,6 +506,9 @@
         <local-filename>jquery-ui-multiselect-widget-1.15.tar.gz</local-filename>
         <format>tgz</format>
         <md5>daff4011cd0d2fa7f46e33c359ac9b24</md5>
+        <patches>
+            <patch strip="2">jquery-ui-multiselect-widget.patch</patch>
+        </patches>
     </package>
     <package>
         <name>knockback-1.1.0</name>
@@ -551,16 +554,6 @@
             <patch strip="1">joint-v0.9.3.patch</patch>
         </patches>
     </package>
-    <!--
-    <package>
-      <name>JointJSNew</name>
-      <url>https://github.com/clientIO/joint/archive/v0.9.6.tar.gz</url>
-      <local-filename>joint-v0.9.6.tar.gz</local-filename>
-      <format>tgz</format>
-      <md5>f398e07df3a25fbb4ae7da6ab4607c1e</md5>
-      <rename>joint-v0.9.6</rename>
-    </package>
-    -->
     <package>
         <name>Dagre</name>
         <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/controller/dagre-0.7.1.tar.gz</url>
@@ -672,11 +665,11 @@
         <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/ajv-4.1.0.zip</url>
         <local-filename>ajv-4.1.0.zip</local-filename>
         <format>zip</format>
-        <md5>643dfa0f57d46b5ea281785c13d7389b</md5>
+        <md5>0e61ff1c2c18a1a7f1265f549fd49fd1</md5>
     </package>
     <package>
         <name>lodash-4.15.0</name>
-        <url>https://github.com/absingla/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/lodash-4.15.tar.gz</url>
+        <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/npm-sources/lodash-4.15.tar.gz</url>
         <format>npm-cached</format>
         <md5>25b7ab9477cbce4b4de1fc1d9f0292fa</md5>
     </package>
@@ -733,5 +726,12 @@
         <local-filename>d3-v4.min.js</local-filename>
         <format>file</format>
         <md5>129b195a432d7c87310cede803863361</md5>
+    </package>
+    <package>
+        <name>jquery-linedtextarea</name>
+        <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/contrail-webui/common/jquery-linedtextarea.zip</url>
+        <local-filename>jquery-linedtextarea.zip</local-filename>
+        <format>zip</format>
+        <md5>28a11528a2be68a0173346e0636717cc</md5>
     </package>
 </packages>
