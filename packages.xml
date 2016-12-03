@@ -762,6 +762,6 @@
         <url>http://10.87.140.111/packages/contrail-charts-v1.0.tar.gz</url>
         <local-filename>contrail-charts-v1.0.tar.gz</local-filename>
         <format>tgz</format>
-        <md5>0b72f12b9fc84ce1304363f90d02def5</md5>
+        <md5>3b51d37f4f16e9802511d04da78398e4</md5>
     </package>
 </packages>
